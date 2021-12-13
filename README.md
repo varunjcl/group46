@@ -12,7 +12,7 @@ We firstly filter out data with a zipcode of 10027. Then we counted the number o
 
 **Parking.ipynb:**
 
-We firstly 
+We want to see how parking violations in our zipcode compare to the total amount of all incidents. Using pandas, we are able to pull out the data for each respective attrribute, moreover we are now able to find the corresponding ratios to compare; moreover allowing us to claim that our zipcode has a lower proportion of parking violations compared to the overall ratio
 
 **Group Member:**
   
