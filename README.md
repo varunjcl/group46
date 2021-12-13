@@ -8,7 +8,7 @@
   
 **Top10.ipynb:**
 
-We firstly filter out data with a zipcode of 10027. Then we counted the number of times its top 10 complaints types occured. Then we counted the whole dataset and find corresponding data associated with top 10 complaints types.
+We firstly filter out data with a zipcode of 10027. Then we counted the number of times its top 10 complaints types occured. Then we counted the whole dataset and find corresponding data associated with top 10 complaints types. We find that the top 10 complaints types in 10027 is nearly the same as what in all areas.
 
 **Parking.ipynb:**
 
